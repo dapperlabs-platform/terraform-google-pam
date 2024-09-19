@@ -1,1 +1,1 @@
-# terraform-google-pam
+# terraform-google-privileged-access-manager
